@@ -11,7 +11,7 @@ find_package(catkin REQUIRED COMPONENTS
   message_generation
 )
 
-find_package(OpenCV 2.4.12.1 EXACT REQUIRED)
+find_package(OpenCV 2 REQUIRED)
 
 #find_package(image_geometry REQUIRED)
 
