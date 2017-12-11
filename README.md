@@ -1,6 +1,6 @@
 Leg Tracker
 ===========
-for ROS Indigo
+Updated for ROS Kinetic
 
 Usage
 -------------------
